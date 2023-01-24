@@ -1,0 +1,121 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    font-size: 68.5%;
+  }
+
+body{
+    background-color: #09090A;
+    color: white;
+    height: 100vh;
+}
+
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 4.8rem;
+
+    position: fixed;
+    width: 100%;
+    background-color: #09090A;
+}
+
+button{
+    padding: 1.6rem 2.4rem;
+    border-radius: 0.8rem;
+    border: 1px solid purple;
+    background-color: transparent;
+    color: white;
+
+    display: flex;
+    align-items: center;
+    gap: 1.0rem;
+
+    font-family: inter;
+    font-weight: 600;
+    font-size: 1.6rem;
+    line-height: 125%;
+}
+
+
+
+form{
+    display: flex;
+    padding: 18.2rem 4.8rem 4.8rem;
+    width: fit-content;
+}
+
+.habit{
+    width: 6.4rem;
+    height: 6.4rem;
+
+    font-size: 3.2rem;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.habits{
+    margin-top: 6.0rem;
+
+    display: flex;
+    flex-direction: column;
+    gap: 2.4rem;
+}
+
+.days{
+    display: flex;
+    margin-left: 3.2rem;
+    gap: 4.8rem;
+}
+
+.day{
+    display: flex;
+    flex-direction: column;
+    gap: 2.4rem;
+}
+
+.day div{
+    margin-bottom: 0.8rem;
+
+    font-family: 'Roboto Mono';
+    font-size: 2.0rem;
+    line-height: 125%;
+
+    color: #A1A1AA;
+    text-align: center;
+}
+
+
+input{
+    appearance: none;
+    -webkit-appearance: none;
+
+    width: 6.4rem;
+    height: 6.4rem;
+
+    border-radius: 0.8rem;
+    border: 2px solid #27272A;
+
+    background: #18181B;
+}
+
+input:checked{
+    background: #8B5CF6;
+    border: 2px solid #A78BFA;
+}
+
+
+@media (max-width: 57.0rem){
+    button div{
+        display: none;
+    }
+}
