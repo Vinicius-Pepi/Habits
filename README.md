@@ -19,4 +19,6 @@
 
 <h1> Objetivo </h1>
 
-A nossa plataforma de registro de hábitos é uma ferramenta fácil de usar para ajudar as pessoas a manter o controle de suas rotinas diárias. Com ela, você pode criar uma lista de hábitos que deseja adotar e marcar quando os completa cada dia. Isso pode ajudar a manter você motivado e no caminho certo para alcançar seus objetivos. Além disso, a plataforma também permite que você veja seu progresso ao longo do tempo e faça ajustes se necessário. Experimente usar a nossa plataforma para começar a desenvolver hábitos saudáveis e melhorar sua qualidade de vida.
+Habits é uma plataforma de registro de hábitos. 
+Uma ferramenta fácil de usar para ajudar as pessoas a manter o controle de suas rotinas diárias. 
+Com ela, você pode criar uma lista de hábitos que deseja adotar e marcar quando os completa cada dia. Isso pode ajudar a manter você motivado e no caminho certo para alcançar seus objetivos. Além disso, a plataforma também permite que você veja seu progresso ao longo do tempo e faça ajustes se necessário. Experimente usar a nossa plataforma para começar a desenvolver hábitos saudáveis e melhorar sua qualidade de vida.
